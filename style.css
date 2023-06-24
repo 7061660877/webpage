@@ -1,0 +1,104 @@
+/* style.css */
+.container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  input[type="text"],
+  input[type="password"],
+  input[type="email"],
+  button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  .p2
+  {
+    color: blue;
+  }
+  #navbarNav
+  {
+    color:blue;
+  }
+  ol{
+    display:inline-flex;
+    
+  }
+#p
+{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    color: blue;
+    margin: 5px;
+}
+ 
+#c
+{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    color: blue;
+    margin: 5px;
+}
+#t
+{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    color: blue;
+    margin: 5px;
+}
+#f
+{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    color: blue;
+    margin: 5px;
+}
+#g
+{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    color: blue;
+    margin: 5px;
+}
+#m
+{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    color: blue;
+    margin: 5px;
+}
+#cs
+{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    color: blue;
+    margin: 5px;
+}
+#df
+{
+    height: 400px;
+    width: 1300px;
+    background: #ccc;
+}
